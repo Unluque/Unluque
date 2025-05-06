@@ -1,6 +1,6 @@
-<img align="left" height="200" src="https://avatars.githubusercontent.com/u/72497372?v=4" />
-
 # 👋 Hi, I'm Adrián Luque
+
+<img align="left" height="200" src="https://avatars.githubusercontent.com/u/72497372?v=4" />
 
 🎯 **Full Stack Developer** | Passionate about solving problems with clean code and smart design.
 
