@@ -7,6 +7,7 @@
 I'm a Computer Engineer specialized in **Full Stack Development**, experienced in building scalable, user-friendly web applications. From crafting elegant frontends to developing robust backends, I enjoy turning ideas into functional and impactful software.
 
 🧠 Curious by nature, I’m always exploring new technologies and improving my craft.  
+
 💬 I thrive in collaborative environments, constantly seeking to deliver innovative and practical solutions.
 
 <br clear="left" />
